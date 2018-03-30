@@ -1,0 +1,11 @@
+D:\Users\SIMPSONMAN\OneDrive\プロジェクト\C#\iTuna\iTuna\bin\Debug\iTuna.exe.config
+D:\Users\SIMPSONMAN\OneDrive\プロジェクト\C#\iTuna\iTuna\bin\Debug\iTuna.exe
+D:\Users\SIMPSONMAN\OneDrive\プロジェクト\C#\iTuna\iTuna\bin\Debug\iTuna.pdb
+D:\Users\SIMPSONMAN\OneDrive\プロジェクト\C#\iTuna\iTuna\obj\Debug\iTuna.csprojResolveAssemblyReference.cache
+D:\Users\SIMPSONMAN\OneDrive\プロジェクト\C#\iTuna\iTuna\obj\Debug\Interop.iTunesLib.dll
+D:\Users\SIMPSONMAN\OneDrive\プロジェクト\C#\iTuna\iTuna\obj\Debug\iTuna.csproj.ResolveComReference.cache
+D:\Users\SIMPSONMAN\OneDrive\プロジェクト\C#\iTuna\iTuna\obj\Debug\iTuna.Form1.resources
+D:\Users\SIMPSONMAN\OneDrive\プロジェクト\C#\iTuna\iTuna\obj\Debug\iTuna.Properties.Resources.resources
+D:\Users\SIMPSONMAN\OneDrive\プロジェクト\C#\iTuna\iTuna\obj\Debug\iTuna.csproj.GenerateResource.Cache
+D:\Users\SIMPSONMAN\OneDrive\プロジェクト\C#\iTuna\iTuna\obj\Debug\iTuna.exe
+D:\Users\SIMPSONMAN\OneDrive\プロジェクト\C#\iTuna\iTuna\obj\Debug\iTuna.pdb
